@@ -1,0 +1,37 @@
+_repo: San-Luis-Reyn-silta_73592
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Wilder, Thornton
+    alias: Wilder, Thornton Niven
+    birthdate: 1897
+    deathdate: 1975
+    gutenberg_agent_id: '54602'
+    url: http://www.gutenberg.org/2009/agents/54602
+    wikipedia: https://en.wikipedia.org/wiki/Thornton_Wilder
+description: ''
+gutenberg_issued: '2024-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73592'
+language: fi
+pgterms:marc905: 20240317112257wilder
+pgterms:marc906: '1958'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: San Luis Reyn silta
+url: http://www.gutenberg.org/ebooks/73592
