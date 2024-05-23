@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilder, Thornton
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54602
     wikipedia: https://en.wikipedia.org/wiki/Thornton_Wilder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73592#San-Luis-Reyn-silta
 gutenberg_issued: '2024-05-10'
 gutenberg_type: Text
 identifiers:
